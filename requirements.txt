@@ -1,5 +1,7 @@
-Flask
-python-telegram-bot[job-queue]==20.3
-requests
-pandas
-ta
+pandas==2.1.1
+ta==0.10.3
+ccxt==3.0.77
+flask==2.3.7
+python-telegram-bot==20.3
+requests==2.31.0
+numpy==1.26.2
